@@ -16,7 +16,13 @@ and all 5 boroughs of New York City were represented.
 
 ## Are Bagel Characteristics Predictive of Score?
 
-Our main question: which of these bagel characteristics is most important to a high-scoring bagel?
+Our main question: which of these bagel characteristics is most important to a high-scoring bagel? The most up-to-date analyses can be found here: [https://danni-tu.github.io/nyc_bagels/](https://danni-tu.github.io/nyc_bagels/).
+
+
+<img src="https://github.com/danni-tu/nyc_bagels/blob/e1e929e6e0a4f05f2ff3be66528783867b7ec56e/correlations.png" width="700">
+
+*(Marginal linear associations between bagel characteristics and score categories.)*
+
 
 ### References
 
